@@ -1,4 +1,5 @@
 social-newspaper
 ================
 
-Social Newspaper
+Social Newspaper  
+http://tiger4th.com/snews/
